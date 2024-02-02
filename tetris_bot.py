@@ -454,4 +454,4 @@ async def on_reaction_add(reaction, user):
             await message.edit(content="")
 
 
-client.run('MTIwMjkxNTMxMTk3Njg0OTQzMg.GLUrRY.zxDaf4HBYWGrOPv6zbEJvuT-f7FFn01ipK1iKk')
+client.run('YOUR_DISCORD_TOKEN_KEY')
